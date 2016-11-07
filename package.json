@@ -30,10 +30,10 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "esprima": "~1.0.0"
+    "esprima": "~3.1.1"
   },
   "devDependencies": {
-    "grunt": "~0.3.17"
+    "grunt": "~1.0.1"
   },
   "keywords": [
     "gruntplugin",
